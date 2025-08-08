@@ -1,0 +1,36 @@
+{
+  "personal": {
+    "name": "Jane Doe",
+    "email": "jane.doe@example.com",
+    "location": "New York, US",
+    "linkedin": "https://linkedin.com/in/janedoe"
+  },
+  "experience": [
+    {
+      "company": "Google",
+      "title": "Senior Software Engineer",
+      "start": "2020-01-15",
+      "end": "2023-06-30",
+      "technologies": "Python, JavaScript, React, Node.js, AWS"
+    },
+    {
+      "company": "Meta",
+      "title": "Software Engineer",
+      "start": "2018-03-01",
+      "end": "2019-12-31",
+      "technologies": "React, TypeScript, GraphQL, PHP"
+    },
+    {
+      "company": "StartupXYZ",
+      "title": "Full Stack Developer",
+      "start": "2016-07-01",
+      "end": "2018-02-28",
+      "technologies": "Python, Django, PostgreSQL, Docker"
+    }
+  ],
+  "salary": {
+    "rate": 95,
+    "currency": "USD",
+    "availability": 25
+  }
+}
